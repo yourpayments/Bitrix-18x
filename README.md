@@ -1,7 +1,7 @@
 # Bitrix-18x
 PayU для Bitrix 18 v.
 (For PayU Ukraine and Russian ONLY)
-Модуль PayU для 1C Bitrix начиная с версии 18.х. Для старых версий Bitrix модуль можно взять тут https://github.com/payuru/Bitrix или в маркетплейсе.
+Модуль PayU для 1C Bitrix начиная с версии 18.х. Для старых версий Bitrix модуль можно взять тут https://github.com/payuru/Bitrix , https://github.com/payuru/Bitrix_14.x или в маркетплейсе.
 Данный модуль подходит для версий Малый бизнес, Бизнес и Бизнес Веб-кластер.
 Данный модуль также есть на маркетплейсе битрикса. Установка проста и бесплатна.
 
