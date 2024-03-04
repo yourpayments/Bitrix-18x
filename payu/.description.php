@@ -7,7 +7,7 @@ include( GetLangFileName(dirname(__FILE__) . "/", "/.description.php") );
 
 
 $psTitle = GetMessage('PEYU_PSTITLE');
-$psDescription = "<a href=\"http://payu.ru\" target=\"_blank\">http://payu.ru</a>";
+$psDescription = "<a href=\"http://ypmn.ru\" target=\"_blank\">http://ypmn.ru</a>";
 
 //$payUPath = str_replace(str_replace('\\', '/', $_SERVER['DOCUMENT_ROOT']), '', dirname(__FILE__));
 //$payUPublicPath = ($_SERVER['HTTPS'] ? 'https' : 'http' ) . '://' . $_SERVER['HTTP_HOST'] .  str_replace('\\', '/', $payUPath);
@@ -43,7 +43,7 @@ $arPSCorrespondence = array(
 	"LU_URL"         => array(
 		"NAME"  => GetMessage("PEYU_LU_URL"),
 		"DESCR" => GetMessage("PEYU_DESC_LU_URL"),
-		"VALUE" => "https://secure.payu.ru/order/lu.php",
+		"VALUE" => "https://secure.ypmn.ru/order/lu.php",
 		"TYPE"  => ""
 	),
     "IPN_LINK" => array(
